@@ -17,7 +17,7 @@
 // This file describes a generic chess piece
 
 class Piece
-{ // parent (base) class from which all chess pieces are derrived from (inherits from)
+{ // parent (base) class from which all chess pieces are derived from (inherits from)
     private:
       const char colNames[9] = {'x', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h'}; // character names of our columns (x is never printed)
       

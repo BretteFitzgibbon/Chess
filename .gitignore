@@ -1,0 +1,29 @@
+# Replit/CLang cache
+.ccls-cache/
+
+# Compiled object files
+*.o
+*.obj
+
+# Executables
+*.out
+*.exe
+
+# Dependency files
+*.d
+
+# Backup files
+*~
+*.bak
+
+# Core dumps
+core
+
+# VS Code settings (if you ever use it)
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Logs
+*.log

@@ -1,0 +1,829 @@
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@__stddef_max_align_t.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@__stddef_max_align_t.h.blob[m
+[1mindex 773d341..888a6ec 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@__stddef_max_align_t.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@__stddef_max_align_t.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stdarg.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stdarg.h.blob[m
+[1mindex 9a6fe21..04ce583 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stdarg.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stdarg.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stddef.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stddef.h.blob[m
+[1mindex 9707c4c..29c4e14 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stddef.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stddef.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stdint.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stdint.h.blob[m
+[1mindex f716351..0a5a0c3 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stdint.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stdint.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@backward@binders.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@backward@binders.h.blob[m
+[1mindex b50b69c..ffe0c07 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@backward@binders.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@backward@binders.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@alloc_traits.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@alloc_traits.h.blob[m
+[1mindex 1ee803c..1e3f162 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@alloc_traits.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@alloc_traits.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@allocator.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@allocator.h.blob[m
+[1mindex fa96581..342ad6e 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@allocator.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@allocator.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@basic_ios.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@basic_ios.h.blob[m
+[1mindex 889ea7b..7430d34 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@basic_ios.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@basic_ios.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@basic_ios.tcc.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@basic_ios.tcc.blob[m
+[1mindex 7f50f58..6d395c9 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@basic_ios.tcc.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@basic_ios.tcc.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@basic_string.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@basic_string.h.blob[m
+[1mindex f3f9e7c..5c95112 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@basic_string.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@basic_string.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@basic_string.tcc.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@basic_string.tcc.blob[m
+[1mindex 894b206..d7fcf1d 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@basic_string.tcc.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@basic_string.tcc.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@char_traits.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@char_traits.h.blob[m
+[1mindex 078b194..4e90838 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@char_traits.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@char_traits.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@charconv.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@charconv.h.blob[m
+[1mindex cc1dd95..18d3e5c 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@charconv.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@charconv.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@codecvt.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@codecvt.h.blob[m
+[1mindex adf22ec..341705a 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@codecvt.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@codecvt.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@concept_check.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@concept_check.h.blob[m
+[1mindex d04ad87..1b7ca33 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@concept_check.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@concept_check.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@cpp_type_traits.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@cpp_type_traits.h.blob[m
+[1mindex 7783c06..46df464 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@cpp_type_traits.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@cpp_type_traits.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@cxxabi_forced.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@cxxabi_forced.h.blob[m
+[1mindex 8e0465b..af7ff36 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@cxxabi_forced.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@cxxabi_forced.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@cxxabi_init_exception.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@cxxabi_init_exception.h.blob[m
+[1mindex 6beca96..d87bed7 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@cxxabi_init_exception.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@cxxabi_init_exception.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@exception.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@exception.h.blob[m
+[1mindex 99a5ed8..abaef9d 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@exception.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@exception.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@exception_defines.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@exception_defines.h.blob[m
+[1mindex a404f0f..92db2c7 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@exception_defines.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@exception_defines.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@exception_ptr.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@exception_ptr.h.blob[m
+[1mindex 7d47e8f..9aaa3ac 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@exception_ptr.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@exception_ptr.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@fstream.tcc.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@fstream.tcc.blob[m
+[1mindex 75933e8..f51778e 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@fstream.tcc.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@fstream.tcc.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@functexcept.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@functexcept.h.blob[m
+[1mindex 7978307..e091b73 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@functexcept.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@functexcept.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@functional_hash.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@functional_hash.h.blob[m
+[1mindex b06741f..f521faa 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@functional_hash.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@functional_hash.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@hash_bytes.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@hash_bytes.h.blob[m
+[1mindex 04592a0..8001b7f 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@hash_bytes.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@hash_bytes.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@ios_base.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@ios_base.h.blob[m
+[1mindex edc22e3..0b56aaf 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@ios_base.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@ios_base.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@istream.tcc.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@istream.tcc.blob[m
+[1mindex 1da795f..bf33c41 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@istream.tcc.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@istream.tcc.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@iterator_concepts.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@iterator_concepts.h.blob[m
+[1mindex ad2929e..977ae1d 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@iterator_concepts.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@iterator_concepts.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@locale_classes.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@locale_classes.h.blob[m
+[1mindex d8d38df..0ab7b3b 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@locale_classes.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@locale_classes.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@locale_classes.tcc.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@locale_classes.tcc.blob[m
+[1mindex 90a40ce..54a6b1a 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@locale_classes.tcc.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@locale_classes.tcc.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@locale_facets.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@locale_facets.h.blob[m
+[1mindex ac7b9dc..187bbca 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@locale_facets.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@locale_facets.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@locale_facets.tcc.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@locale_facets.tcc.blob[m
+[1mindex ab505e1..a31a93c 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@locale_facets.tcc.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@locale_facets.tcc.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@localefwd.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@localefwd.h.blob[m
+[1mindex 6f77960..db96a07 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@localefwd.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@localefwd.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@memoryfwd.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@memoryfwd.h.blob[m
+[1mindex 99428e5..30fcc97 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@memoryfwd.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@memoryfwd.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@move.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@move.h.blob[m
+[1mindex f7044f8..51dba89 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@move.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@move.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@nested_exception.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@nested_exception.h.blob[m
+[1mindex b0217ec..dd676c2 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@nested_exception.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@nested_exception.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@ostream.tcc.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@ostream.tcc.blob[m
+[1mindex 4ef4c2f..ec71b2e 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@ostream.tcc.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@ostream.tcc.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@ostream_insert.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@ostream_insert.h.blob[m
+[1mindex 3cac834..6e1aa70 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@ostream_insert.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@ostream_insert.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@postypes.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@postypes.h.blob[m
+[1mindex d2a1e68..986c900 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@postypes.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@postypes.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@predefined_ops.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@predefined_ops.h.blob[m
+[1mindex a42c1cf..79aded2 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@predefined_ops.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@predefined_ops.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@ptr_traits.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@ptr_traits.h.blob[m
+[1mindex 208671a..7c412d8 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@ptr_traits.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@ptr_traits.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@range_access.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@range_access.h.blob[m
+[1mindex 7fd6e18..230b4f7 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@range_access.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@range_access.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@range_cmp.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@range_cmp.h.blob[m
+[1mindex 6f22dc3..7f536d6 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@range_cmp.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@range_cmp.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@std_abs.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@std_abs.h.blob[m
+[1mindex 7ce26dd..d20c4f0 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@std_abs.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@std_abs.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_algobase.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_algobase.h.blob[m
+[1mindex e6cb704..a7cd866 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_algobase.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_algobase.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_bvector.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_bvector.h.blob[m
+[1mindex e2da7a0..bdf63d6 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_bvector.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_bvector.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_construct.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_construct.h.blob[m
+[1mindex b0455ed..4e4b39a 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_construct.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_construct.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_function.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_function.h.blob[m
+[1mindex 4f944dd..a331259 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_function.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_function.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_iterator.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_iterator.h.blob[m
+[1mindex 74646b1..42f9f7d 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_iterator.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_iterator.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_iterator_base_funcs.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_iterator_base_funcs.h.blob[m
+[1mindex 7dd60eb..55a613c 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_iterator_base_funcs.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_iterator_base_funcs.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_iterator_base_types.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_iterator_base_types.h.blob[m
+[1mindex f9f67f0..ba4176a 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_iterator_base_types.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_iterator_base_types.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_pair.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_pair.h.blob[m
+[1mindex e58784a..b69ba87 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_pair.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_pair.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_uninitialized.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_uninitialized.h.blob[m
+[1mindex f26f5f6..29a4450 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_uninitialized.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_uninitialized.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_vector.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_vector.h.blob[m
+[1mindex 151937b..3ec5345 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_vector.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stl_vector.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@streambuf.tcc.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@streambuf.tcc.blob[m
+[1mindex e98224c..fe8560f 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@streambuf.tcc.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@streambuf.tcc.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@streambuf_iterator.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@streambuf_iterator.h.blob[m
+[1mindex 0d548e0..eb754ba 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@streambuf_iterator.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@streambuf_iterator.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stringfwd.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stringfwd.h.blob[m
+[1mindex 502d116..524538b 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stringfwd.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@stringfwd.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@vector.tcc.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@vector.tcc.blob[m
+[1mindex 8b7733c..806c5d7 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@vector.tcc.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@bits@vector.tcc.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@cctype.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@cctype.blob[m
+[1mindex 15266a1..81140de 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@cctype.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@cctype.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@cerrno.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@cerrno.blob[m
+[1mindex c836cdc..c821eb0 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@cerrno.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@cerrno.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@clocale.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@clocale.blob[m
+[1mindex acbf5c9..e87b5b8 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@clocale.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@clocale.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@cmath.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@cmath.blob[m
+[1mindex 6558ead..7e96b79 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@cmath.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@cmath.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@concepts.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@concepts.blob[m
+[1mindex f284a96..96be590 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@concepts.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@concepts.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@cstdint.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@cstdint.blob[m
+[1mindex 012ddb2..3653776 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@cstdint.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@cstdint.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@cstdio.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@cstdio.blob[m
+[1mindex 90e16de..35d7d6d 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@cstdio.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@cstdio.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@cstdlib.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@cstdlib.blob[m
+[1mindex fff4add..c94e681 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@cstdlib.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@cstdlib.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@cwchar.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@cwchar.blob[m
+[1mindex 758590b..b9afd71 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@cwchar.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@cwchar.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@cwctype.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@cwctype.blob[m
+[1mindex 33ceeb7..e869040 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@cwctype.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@cwctype.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@debug@assertions.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@debug@assertions.h.blob[m
+[1mindex be6076e..55b1db8 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@debug@assertions.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@debug@assertions.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@debug@debug.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@debug@debug.h.blob[m
+[1mindex bfe1790..7105bbe 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@debug@debug.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@debug@debug.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@exception.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@exception.blob[m
+[1mindex e7ff96e..a8ca221 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@exception.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@exception.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@ext@alloc_traits.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@ext@alloc_traits.h.blob[m
+[1mindex 7ba001d..843739a 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@ext@alloc_traits.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@ext@alloc_traits.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@ext@atomicity.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@ext@atomicity.h.blob[m
+[1mindex d96d0fd..1aebda5 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@ext@atomicity.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@ext@atomicity.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@ext@new_allocator.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@ext@new_allocator.h.blob[m
+[1mindex dc7df78..c60577f 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@ext@new_allocator.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@ext@new_allocator.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@ext@numeric_traits.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@ext@numeric_traits.h.blob[m
+[1mindex 79dd4c4..0f778c2 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@ext@numeric_traits.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@ext@numeric_traits.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@ext@string_conversions.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@ext@string_conversions.h.blob[m
+[1mindex 897d4a5..b12b5b8 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@ext@string_conversions.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@ext@string_conversions.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@ext@type_traits.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@ext@type_traits.h.blob[m
+[1mindex 3e92541..57753f1 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@ext@type_traits.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@ext@type_traits.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@fstream.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@fstream.blob[m
+[1mindex 9e489bc..1c9a4ca 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@fstream.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@fstream.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@initializer_list.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@initializer_list.blob[m
+[1mindex 211f73f..4a96b7d 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@initializer_list.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@initializer_list.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@ios.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@ios.blob[m
+[1mindex f52951f..0b3b387 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@ios.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@ios.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@iosfwd.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@iosfwd.blob[m
+[1mindex f1c890a..76ee2ec 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@iosfwd.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@iosfwd.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@iostream.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@iostream.blob[m
+[1mindex ec347a6..a9cfdd3 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@iostream.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@iostream.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@istream.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@istream.blob[m
+[1mindex 31d77f5..189a313 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@istream.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@istream.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@new.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@new.blob[m
+[1mindex 4dac9f0..9bf83d8 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@new.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@new.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@ostream.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@ostream.blob[m
+[1mindex d27f1a8..fdc81c9 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@ostream.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@ostream.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@stdexcept.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@stdexcept.blob[m
+[1mindex c0b889f..0293a99 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@stdexcept.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@stdexcept.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@streambuf.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@streambuf.blob[m
+[1mindex 41eea54..1146adc 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@streambuf.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@streambuf.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@string.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@string.blob[m
+[1mindex 5adec8e..9fa0fce 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@string.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@string.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@system_error.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@system_error.blob[m
+[1mindex de447ff..080ea9d 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@system_error.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@system_error.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@type_traits.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@type_traits.blob[m
+[1mindex 62f584f..4fcc6ae 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@type_traits.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@type_traits.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@typeinfo.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@typeinfo.blob[m
+[1mindex a527963..8981144 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@typeinfo.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@typeinfo.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@vector.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@vector.blob[m
+[1mindex d430d96..b038690 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@vector.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@vector.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@atomic_word.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@atomic_word.h.blob[m
+[1mindex 9ad9877..d260536 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@atomic_word.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@atomic_word.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@basic_file.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@basic_file.h.blob[m
+[1mindex 1428d3b..e5476f0 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@basic_file.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@basic_file.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@c++allocator.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@c++allocator.h.blob[m
+[1mindex 583101a..07d8f07 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@c++allocator.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@c++allocator.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@c++config.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@c++config.h.blob[m
+[1mindex 5bc08d4..f6b3a76 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@c++config.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@c++config.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@c++io.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@c++io.h.blob[m
+[1mindex a581f7c..131b53d 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@c++io.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@c++io.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@c++locale.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@c++locale.h.blob[m
+[1mindex 0b71293..fd4a778 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@c++locale.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@c++locale.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@cpu_defines.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@cpu_defines.h.blob[m
+[1mindex 53697a3..adbdf18 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@cpu_defines.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@cpu_defines.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@ctype_base.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@ctype_base.h.blob[m
+[1mindex 8c5158b..63d6bc9 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@ctype_base.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@ctype_base.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@ctype_inline.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@ctype_inline.h.blob[m
+[1mindex 94047fb..e964a6f 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@ctype_inline.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@ctype_inline.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@error_constants.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@error_constants.h.blob[m
+[1mindex 64652d7..579de24 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@error_constants.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@error_constants.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@gthr-default.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@gthr-default.h.blob[m
+[1mindex 11425a4..2bdf6a4 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@gthr-default.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@gthr-default.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@gthr.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@gthr.h.blob[m
+[1mindex e293100..69821f8 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@gthr.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@gthr.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@os_defines.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@os_defines.h.blob[m
+[1mindex e6e2acd..ddc6e8f 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@os_defines.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0@include@c++@10.3.0@x86_64-unknown-linux-gnu@bits@os_defines.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@alloca.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@alloca.h.blob[m
+[1mindex 981de79..ddae400 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@alloca.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@alloca.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@byteswap.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@byteswap.h.blob[m
+[1mindex 7c88536..688f6a8 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@byteswap.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@byteswap.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@cpu-set.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@cpu-set.h.blob[m
+[1mindex 688cf1d..0274ede 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@cpu-set.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@cpu-set.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@endian.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@endian.h.blob[m
+[1mindex 6fd2f28..8dbf797 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@endian.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@endian.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@endianness.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@endianness.h.blob[m
+[1mindex efae2ed..45ca230 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@endianness.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@endianness.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@errno.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@errno.h.blob[m
+[1mindex df0abee..9abbb8f 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@errno.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@errno.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h.blob[m
+[1mindex 102c039..139fb78 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn.h.blob[m
+[1mindex e856436..7c2aa5d 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@flt-eval-method.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@flt-eval-method.h.blob[m
+[1mindex dabb42b..dc220f2 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@flt-eval-method.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@flt-eval-method.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@fp-fast.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@fp-fast.h.blob[m
+[1mindex 3361f25..642dae3 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@fp-fast.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@fp-fast.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@fp-logb.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@fp-logb.h.blob[m
+[1mindex 4cfb33a..fdff2f6 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@fp-logb.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@fp-logb.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@iscanonical.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@iscanonical.h.blob[m
+[1mindex b452164..b4df376 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@iscanonical.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@iscanonical.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@libc-header-start.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@libc-header-start.h.blob[m
+[1mindex cc56a5b..ccaf7d6 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@libc-header-start.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@libc-header-start.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@libm-simd-decl-stubs.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@libm-simd-decl-stubs.h.blob[m
+[1mindex c0aa1b2..c5d25cb 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@libm-simd-decl-stubs.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@libm-simd-decl-stubs.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@locale.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@locale.h.blob[m
+[1mindex 9d3d4fa..a1820b0 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@locale.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@locale.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@long-double.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@long-double.h.blob[m
+[1mindex 29a8810..67f6bc0 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@long-double.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@long-double.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@math-vector.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@math-vector.h.blob[m
+[1mindex 77fcbbe..ec88ad8 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@math-vector.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@math-vector.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@mathcalls-helper-functions.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@mathcalls-helper-functions.h.blob[m
+[1mindex 2166138..baca36b 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@mathcalls-helper-functions.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@mathcalls-helper-functions.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@mathcalls-narrow.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@mathcalls-narrow.h.blob[m
+[1mindex cfdb56e..5f3209e 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@mathcalls-narrow.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@mathcalls-narrow.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@mathcalls.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@mathcalls.h.blob[m
+[1mindex 2cf1f03..880f951 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@mathcalls.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@mathcalls.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@pthreadtypes-arch.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@pthreadtypes-arch.h.blob[m
+[1mindex 41f606d..b7cd827 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@pthreadtypes-arch.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@pthreadtypes-arch.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@pthreadtypes.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@pthreadtypes.h.blob[m
+[1mindex afb1b13..4e11380 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@pthreadtypes.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@pthreadtypes.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@sched.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@sched.h.blob[m
+[1mindex 44dc1de..029a9fb 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@sched.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@sched.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@select.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@select.h.blob[m
+[1mindex 1b1134c..414a16c 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@select.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@select.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@setjmp.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@setjmp.h.blob[m
+[1mindex 4e97ecc..c7d574e 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@setjmp.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@setjmp.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@stdint-intn.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@stdint-intn.h.blob[m
+[1mindex 0d70cf2..c32079b 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@stdint-intn.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@stdint-intn.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@stdint-uintn.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@stdint-uintn.h.blob[m
+[1mindex 9307304..bc6bb26 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@stdint-uintn.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@stdint-uintn.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@stdio_lim.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@stdio_lim.h.blob[m
+[1mindex eebde69..eab7fad 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@stdio_lim.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@stdio_lim.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@stdlib-float.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@stdlib-float.h.blob[m
+[1mindex 30046af..b3f7bc1 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@stdlib-float.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@stdlib-float.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@struct_mutex.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@struct_mutex.h.blob[m
+[1mindex 70bfedb..682b944 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@struct_mutex.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@struct_mutex.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@struct_rwlock.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@struct_rwlock.h.blob[m
+[1mindex afca872..38137b6 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@struct_rwlock.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@struct_rwlock.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@thread-shared-types.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@thread-shared-types.h.blob[m
+[1mindex caed61f..a68bbfa 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@thread-shared-types.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@thread-shared-types.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@time.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@time.h.blob[m
+[1mindex 3a7ad22..903a9aa 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@time.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@time.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@time64.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@time64.h.blob[m
+[1mindex 9ada139..7d4fa10 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@time64.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@time64.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@timesize.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@timesize.h.blob[m
+[1mindex 167bb05..faf029f 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@timesize.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@timesize.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@timex.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@timex.h.blob[m
+[1mindex 01cac2a..1845577 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@timex.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@timex.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h.blob[m
+[1mindex 7ae8b78..691195a 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@FILE.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@FILE.h.blob[m
+[1mindex 115f6da..2eb7223 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@FILE.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@FILE.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__FILE.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__FILE.h.blob[m
+[1mindex b185ace..5c80e49 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__FILE.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__FILE.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__fpos64_t.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__fpos64_t.h.blob[m
+[1mindex 9d12bea..45e9993 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__fpos64_t.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__fpos64_t.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__fpos_t.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__fpos_t.h.blob[m
+[1mindex c0cc52c..7eaf0d1 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__fpos_t.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__fpos_t.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__locale_t.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__locale_t.h.blob[m
+[1mindex 20b05e7..798a5ef 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__locale_t.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__locale_t.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__mbstate_t.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__mbstate_t.h.blob[m
+[1mindex 98f826a..2f77936 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__mbstate_t.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__mbstate_t.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__sigset_t.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__sigset_t.h.blob[m
+[1mindex ec50853..0910eae 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__sigset_t.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__sigset_t.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@clock_t.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@clock_t.h.blob[m
+[1mindex 0e7054f..6ed0718 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@clock_t.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@clock_t.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@clockid_t.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@clockid_t.h.blob[m
+[1mindex ba94919..4d05cb3 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@clockid_t.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@clockid_t.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@cookie_io_functions_t.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@cookie_io_functions_t.h.blob[m
+[1mindex 32e9ddc..dff5471 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@cookie_io_functions_t.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@cookie_io_functions_t.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@error_t.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@error_t.h.blob[m
+[1mindex 8b459f6..eef0b73 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@error_t.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@error_t.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@locale_t.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@locale_t.h.blob[m
+[1mindex 8faaa0d..88ee04d 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@locale_t.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@locale_t.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@mbstate_t.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@mbstate_t.h.blob[m
+[1mindex dbe6daf..8144576 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@mbstate_t.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@mbstate_t.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@sigset_t.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@sigset_t.h.blob[m
+[1mindex 59f801c..fef8495 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@sigset_t.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@sigset_t.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h.blob[m
+[1mindex 1be3261..5adec44 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct___jmp_buf_tag.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct___jmp_buf_tag.h.blob[m
+[1mindex 9addbd5..62acd6f 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct___jmp_buf_tag.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct___jmp_buf_tag.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_itimerspec.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_itimerspec.h.blob[m
+[1mindex d81d7e0..f2ef01f 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_itimerspec.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_itimerspec.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_sched_param.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_sched_param.h.blob[m
+[1mindex 861f5dc..be2cf16 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_sched_param.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_sched_param.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_timespec.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_timespec.h.blob[m
+[1mindex 944b3d9..cd1823a 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_timespec.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_timespec.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_timeval.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_timeval.h.blob[m
+[1mindex 91e8a72..b945ffd 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_timeval.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_timeval.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_tm.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_tm.h.blob[m
+[1mindex 039412b..9c124c9 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_tm.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_tm.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@time_t.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@time_t.h.blob[m
+[1mindex 3813f0c..b4f3d40 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@time_t.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@time_t.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@timer_t.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@timer_t.h.blob[m
+[1mindex 9c53623..e51d323 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@timer_t.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@timer_t.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@wint_t.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@wint_t.h.blob[m
+[1mindex 305c30c..b8d281a 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@wint_t.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@wint_t.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h.blob[m
+[1mindex c231207..e099f94 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@uintn-identity.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@uintn-identity.h.blob[m
+[1mindex 93f3a30..c3dc697 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@uintn-identity.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@uintn-identity.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@waitflags.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@waitflags.h.blob[m
+[1mindex 90f289e..f2954ec 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@waitflags.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@waitflags.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@waitstatus.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@waitstatus.h.blob[m
+[1mindex 27d895e..604b17d 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@waitstatus.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@waitstatus.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@wchar.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@wchar.h.blob[m
+[1mindex 4021ef1..514c18a 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@wchar.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@wchar.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@wctype-wchar.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@wctype-wchar.h.blob[m
+[1mindex 65e6c2b..5c2e160 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@wctype-wchar.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@wctype-wchar.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@wordsize.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@wordsize.h.blob[m
+[1mindex c7c9e7c..912c18d 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@wordsize.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@wordsize.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@ctype.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@ctype.h.blob[m
+[1mindex b3c9286..e70c353 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@ctype.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@ctype.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@endian.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@endian.h.blob[m
+[1mindex 026e8be..3482b2b 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@endian.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@endian.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@errno.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@errno.h.blob[m
+[1mindex c3450a5..07c29bb 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@errno.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@errno.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h.blob[m
+[1mindex 6fae2a2..67ba88d 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@gnu@stubs-64.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@gnu@stubs-64.h.blob[m
+[1mindex 6f74837..9a0295a 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@gnu@stubs-64.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@gnu@stubs-64.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@gnu@stubs.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@gnu@stubs.h.blob[m
+[1mindex 7bfa043..5455825 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@gnu@stubs.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@gnu@stubs.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@locale.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@locale.h.blob[m
+[1mindex 9d86710..abe8fc6 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@locale.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@locale.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@math.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@math.h.blob[m
+[1mindex 333150c..695139b 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@math.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@math.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@pthread.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@pthread.h.blob[m
+[1mindex 356ef46..177f173 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@pthread.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@pthread.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sched.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sched.h.blob[m
+[1mindex 4b522a0..ce26ea9 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sched.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sched.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdc-predef.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdc-predef.h.blob[m
+[1mindex df83e54..070bf5e 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdc-predef.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdc-predef.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdint.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdint.h.blob[m
+[1mindex b50a549..a3aa09d 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdint.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdint.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h.blob[m
+[1mindex e95c8ea..fad1a4b 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdlib.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdlib.h.blob[m
+[1mindex 353dd06..8645aeb 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdlib.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdlib.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h.blob[m
+[1mindex 4bc6c4d..4177a3f 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@select.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@select.h.blob[m
+[1mindex 85915ef..f932174 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@select.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@select.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@types.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@types.h.blob[m
+[1mindex 8cac507..b23f025 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@types.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@types.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@time.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@time.h.blob[m
+[1mindex f899e0b..fc3cfc5 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@time.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@time.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@wchar.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@wchar.h.blob[m
+[1mindex 40f7868..fef85cf 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@wchar.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@wchar.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@wctype.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@wctype.h.blob[m
+[1mindex 44dadca..d249de4 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@wctype.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@wctype.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@ph2k4vnsa1zfxlckrmfg997byhbm0z17-linux-headers-5.12@include@asm-generic@errno-base.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@ph2k4vnsa1zfxlckrmfg997byhbm0z17-linux-headers-5.12@include@asm-generic@errno-base.h.blob[m
+[1mindex 976fc02..b79d6ea 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@ph2k4vnsa1zfxlckrmfg997byhbm0z17-linux-headers-5.12@include@asm-generic@errno-base.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@ph2k4vnsa1zfxlckrmfg997byhbm0z17-linux-headers-5.12@include@asm-generic@errno-base.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@ph2k4vnsa1zfxlckrmfg997byhbm0z17-linux-headers-5.12@include@asm-generic@errno.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@ph2k4vnsa1zfxlckrmfg997byhbm0z17-linux-headers-5.12@include@asm-generic@errno.h.blob[m
+[1mindex ea57644..58c5a13 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@ph2k4vnsa1zfxlckrmfg997byhbm0z17-linux-headers-5.12@include@asm-generic@errno.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@ph2k4vnsa1zfxlckrmfg997byhbm0z17-linux-headers-5.12@include@asm-generic@errno.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@ph2k4vnsa1zfxlckrmfg997byhbm0z17-linux-headers-5.12@include@asm@errno.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@ph2k4vnsa1zfxlckrmfg997byhbm0z17-linux-headers-5.12@include@asm@errno.h.blob[m
+[1mindex 7a6ce38..f21f3f3 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@ph2k4vnsa1zfxlckrmfg997byhbm0z17-linux-headers-5.12@include@asm@errno.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@ph2k4vnsa1zfxlckrmfg997byhbm0z17-linux-headers-5.12@include@asm@errno.h.blob differ
+[1mdiff --git a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@ph2k4vnsa1zfxlckrmfg997byhbm0z17-linux-headers-5.12@include@linux@errno.h.blob b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@ph2k4vnsa1zfxlckrmfg997byhbm0z17-linux-headers-5.12@include@linux@errno.h.blob[m
+[1mindex 88ef97f..9c4eadb 100644[m
+Binary files a/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@ph2k4vnsa1zfxlckrmfg997byhbm0z17-linux-headers-5.12@include@linux@errno.h.blob and b/.ccls-cache/@@home@runner@cs235-HW7-Chess-Start/@nix@store@ph2k4vnsa1zfxlckrmfg997byhbm0z17-linux-headers-5.12@include@linux@errno.h.blob differ
+[1mdiff --git a/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Bishop.h.blob b/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Bishop.h.blob[m
+[1mindex d35e207..55281fb 100644[m
+Binary files a/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Bishop.h.blob and b/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Bishop.h.blob differ
+[1mdiff --git a/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/ChessBoard.cpp.blob b/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/ChessBoard.cpp.blob[m
+[1mindex 5c245ea..a088593 100644[m
+Binary files a/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/ChessBoard.cpp.blob and b/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/ChessBoard.cpp.blob differ
+[1mdiff --git a/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/ChessBoard.h.blob b/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/ChessBoard.h.blob[m
+[1mindex ed6a931..72e4a83 100644[m
+Binary files a/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/ChessBoard.h.blob and b/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/ChessBoard.h.blob differ
+[1mdiff --git a/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/King.h.blob b/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/King.h.blob[m
+[1mindex cd53f7a..b04aa5c 100644[m
+Binary files a/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/King.h.blob and b/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/King.h.blob differ
+[1mdiff --git a/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Knight.h.blob b/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Knight.h.blob[m
+[1mindex a171c92..2adf1de 100644[m
+Binary files a/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Knight.h.blob and b/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Knight.h.blob differ
+[1mdiff --git a/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Pawn.cpp.blob b/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Pawn.cpp.blob[m
+[1mindex 17043c3..b90b979 100644[m
+Binary files a/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Pawn.cpp.blob and b/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Pawn.cpp.blob differ
+[1mdiff --git a/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Pawn.h.blob b/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Pawn.h.blob[m
+[1mindex 09ad5d0..611d7d5 100644[m
+Binary files a/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Pawn.h.blob and b/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Pawn.h.blob differ
+[1mdiff --git a/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Piece.cpp b/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Piece.cpp[m
+[1mindex d98a5a3..cff5e2f 100644[m
+[1m--- a/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Piece.cpp[m
+[1m+++ b/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Piece.cpp[m
+[36m@@ -2,7 +2,6 @@[m
+ #include <string>[m
+ #include "Piece.h"[m
+ [m
+[31m-// DONE FOR YOU: this file implementation is completely finished, but should be studied.[m
+ [m
+ Piece::Piece()[m
+ { // constructor 1: (default)[m
+[1mdiff --git a/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Piece.cpp.blob b/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Piece.cpp.blob[m
+[1mindex 7d0b434..8aedd07 100644[m
+Binary files a/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Piece.cpp.blob and b/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Piece.cpp.blob differ
+[1mdiff --git a/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Piece.h b/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Piece.h[m
+[1mindex 2b7bb97..59279e5 100644[m
+[1m--- a/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Piece.h[m
+[1m+++ b/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Piece.h[m
+[36m@@ -17,7 +17,7 @@[m
+ // This file describes a generic chess piece[m
+ [m
+ class Piece[m
+[31m-{ // parent (base) class from which all chess pieces are derrived from (inherits from)[m
+[32m+[m[32m{ // parent (base) class from which all chess pieces are derived from (inherits from)[m
+     private:[m
+       const char colNames[9] = {'x', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h'}; // character names of our columns (x is never printed)[m
+       [m
+[1mdiff --git a/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Piece.h.blob b/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Piece.h.blob[m
+[1mindex 56d1e77..2b95e48 100644[m
+Binary files a/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Piece.h.blob and b/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Piece.h.blob differ
+[1mdiff --git a/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Queen.h.blob b/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Queen.h.blob[m
+[1mindex 6841652..d6b10a0 100644[m
+Binary files a/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Queen.h.blob and b/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Queen.h.blob differ
+[1mdiff --git a/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Rook.h.blob b/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Rook.h.blob[m
+[1mindex 425faad..7866936 100644[m
+Binary files a/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Rook.h.blob and b/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/Rook.h.blob differ
+[1mdiff --git a/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/main.cpp.blob b/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/main.cpp.blob[m
+[1mindex 5d50d8a..21a5b9b 100644[m
+Binary files a/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/main.cpp.blob and b/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/main.cpp.blob differ
+[1mdiff --git a/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/testMe.h.blob b/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/testMe.h.blob[m
+[1mindex 089b7c7..633e0a5 100644[m
+Binary files a/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/testMe.h.blob and b/.ccls-cache/@home@runner@cs235-HW7-Chess-Start/testMe.h.blob differ
+[1mdiff --git a/Bishop.cpp b/Bishop.cpp[m
+[1mindex f8c7415..cdded9e 100644[m
+[1m--- a/Bishop.cpp[m
+[1m+++ b/Bishop.cpp[m
+[36m@@ -3,24 +3,36 @@[m
+ #include "Bishop.h"[m
+ [m
+ Bishop::Bishop(int _row, int _col, bool _isWhite, std::string _name): Piece (_row, _col, _isWhite, _name) {ptype = "Bishop";}[m
+[31m-    [m
+[31m-Bishop::~Bishop() {std::cout << "Destroying bishop" << std::endl;}// destructor[m
+ [m
+[31m-bool Bishop::isLegalMoveTo(int _row, int _col) // true if this Bishop can move to the specified location from its current location[m
+[31m-{ // _row, _col is the "to" location of our desired move[m
+[31m-    if (abs(row - _row) != (abs(col - _col))) // bishops must move at 45-degree angles  [m
+[32m+[m[32m// destructor[m
+[32m+[m[32mBishop::~Bishop() {std::cout << "Destroying bishop" << std::endl;}[m[41m [m
+[32m+[m
+[32m+[m[32m/*[m[41m [m
+[32m+[m[32mBoolean to assess whether the Bishop can move to the specified location from its current location.[m
+[32m+[m[32mParams: _row and _col are the location of our desired move.[m
+[32m+[m[32m*/[m
+[32m+[m[32mbool Bishop::isLegalMoveTo(int _row, int _col)[m[41m [m
+[32m+[m[32m{[m[41m [m
+[32m+[m[32m  // Bishops must move at 45-degree angles[m[41m  [m
+[32m+[m[32m  if (abs(row - _row) != (abs(col - _col)))[m[41m [m
+       return false;[m
+[31m-    else if (!board->isClear(row, col, _row, _col)) // are there pieces blocking this potential move?          [m
+[32m+[m[32m    // Are there pieces blocking this potential move?[m
+[32m+[m[32m    else if (!board->isClear(row, col, _row, _col))[m[41m [m
+       return false;[m
+[31m-      // Check if the final location is occupied by a same-colored piece           // if yes, then we are blocked by our own piece           // if no, then we have a capture – which will be handled by the Piece :: moveTo ( ) method[m
+[31m-    Piece* endPiece = board->pieceAt(_row, _col);  // see if there is a piece at the "to" location[m
+[32m+[m[32m    /*[m
+[32m+[m[32m    Check if the final location is occupied by a same-colored piece.[m
+[32m+[m[32m    If yes, then we are blocked by our own piece.[m
+[32m+[m[32m    If no, then we have a capture – which will be handled by the Piece :: moveTo ( ) method[m
+[32m+[m[32m    */[m
+[32m+[m[32m    Piece* endPiece = board->pieceAt(_row, _col);[m[41m  [m
+[32m+[m[32m    // See if there is a piece at the "to" location[m
+     if (endPiece != nullptr) [m
+[31m-    { // check if the piece at the "to" location is of the same color[m
+[32m+[m[32m    { // Check if the piece at the "to" location is of the same color[m
+         if (endPiece->isWhite == isWhite) [m
+         {[m
+           std::cout << "bishop.isLegalMoveTo(): This move is blocked at the to location by a same-colored piece!" << std::endl;            [m
+[31m-         return false; // cannot move to or capture our own piece!        }[m
+[31m-      } // done checking piece at "to" location[m
+[32m+[m[32m         return false; // Cannot move to or capture our own piece![m[41m    [m
+[32m+[m[32m      } // Done checking piece at "to" location[m
+     }[m
+       return true;[m
+ }[m
+[1mdiff --git a/Piece.cpp b/Piece.cpp[m
+[1mindex d98a5a3..cff5e2f 100644[m
+[1m--- a/Piece.cpp[m
+[1m+++ b/Piece.cpp[m
+[36m@@ -2,7 +2,6 @@[m
+ #include <string>[m
+ #include "Piece.h"[m
+ [m
+[31m-// DONE FOR YOU: this file implementation is completely finished, but should be studied.[m
+ [m
+ Piece::Piece()[m
+ { // constructor 1: (default)[m
+[1mdiff --git a/Piece.h b/Piece.h[m
+[1mindex 2b7bb97..59279e5 100644[m
+[1m--- a/Piece.h[m
+[1m+++ b/Piece.h[m
+[36m@@ -17,7 +17,7 @@[m
+ // This file describes a generic chess piece[m
+ [m
+ class Piece[m
+[31m-{ // parent (base) class from which all chess pieces are derrived from (inherits from)[m
+[32m+[m[32m{ // parent (base) class from which all chess pieces are derived from (inherits from)[m
+     private:[m
+       const char colNames[9] = {'x', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h'}; // character names of our columns (x is never printed)[m
+       [m
+[1mdiff --git a/Piece.o b/Piece.o[m
+[1mindex 3463834..228e768 100644[m
+Binary files a/Piece.o and b/Piece.o differ
+[1mdiff --git a/journalMoves.txt b/journalMoves.txt[m
+[1mindex 13db929..e69de29 100644[m
+[1m--- a/journalMoves.txt[m
+[1m+++ b/journalMoves.txt[m
+[36m@@ -1,86 +0,0 @@[m
+[31m-p1w 4 a[m
+[31m-p4b 5 d[m
+[31m-p2w 4 b[m
+[31m-p4b 4 d[m
+[31m-p4w 3 c[m
+[31m-p4w 4 d[m
+[31m-p8w 4 h[m
+[31m-p6b 5 f[m
+[31m-p8w 4 h[m
+[31m-p8w 5 h[m
+[31m-h2b 6 f[m
+[31m-pp6w 4 f[m
+[31m-p6w 4 f[m
+[31m-qub 5 d[m
+[31m-p4w 3 d[m
+[31m-qub 2 g[m
+[31m-b2w 3 h[m
+[31m-b2w 2 g[m
+[31m-b1b 6 e[m
+[31m-p1w 5 a[m
+[31m-h1b 6 a[m
+[31m-p2w 5 b[m
+[31m-h2b 4 f[m
+[31m-h2b 4 e[m
+[31m-p3w 4 c[m
+[31m-b1b 4 c[m
+[31m-r1w 4 a[m
+[31m-p5b 5 e[m
+[31m-p6w 5 e[m
+[31m-b1b 2 a[m
+[31m-p4w 4 e[m
+[31m-p6b 4 e[m
+[31m-r1w 4 d[m
+[31m-p8b 5 h[m
+[31m-p7b 5 g[m
+[31m-p2w 6 a[m
+[31m-p2b 6 a[m
+[31m-b1w 5 g[m
+[31m-p3b 5 c[m
+[31m-r1w 4 e[m
+[31m-b2b 7 e[m
+[31m-h1w 3 c[m
+[31m-p8b 6 h[m
+[31m-b1w 6 h[m
+[31m-r1b 8 d[m
+[31m-quw 8 d[m
+[31m-k1b 8 d[m
+[31m-kib 8 d[m
+[31m-r2w 4 h[m
+[31m-r2b 6 h[m
+[31m-r2w 4 f[m
+[31m-r2b 5 h[m
+[31m-p5w 3 e[m
+[31m-r2b 2 h[m
+[31m-r1w 4 d[m
+[31m-kib 8 c[m
+[31m-r2w 8 f[m
+[31m-kib 7 c[m
+[31m-r1w 4 c[m
+[31m-b1b 4 c[m
+[31m-r2w 8 c[m
+[31m-kib 7 d[m
+[31m-r2w 5 c[m
+[31m-b2b 5 c[m
+[31m-b2w 1 f[m
+[31m-r2b 1 h[m
+[31m-p5w 4 e[m
+[31m-r2b 1 g[m
+[31m-kiw 2 e[m
+[31m-kiw 2 d[m
+[31m-r2b 1 f[m
+[31m-h1w 4 a[m
+[31m-b2b 1 f[m
+[31m-b2b 1 g[m
+[31m-p6w 6 e[m
+[31m-kib 6 e[m
+[31m-h1w 5 c[m
+[31m-r2b 1 d[m
+[31m-kib 7 e[m
+[31m-p5w 5 e[m
+[31m-r2b 1 d[m
+[31m-kiw 2 c[m
+[31m-b2b 5 c[m
+[31m-kiw 1 d[m
+[31m-b2b 6 e[m
+[31m-b1b 6 e[m
+[1mdiff --git a/main b/main[m
+[1mindex 7cbbfbf..210eee2 100755[m
+Binary files a/main and b/main differ
