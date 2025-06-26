@@ -9,7 +9,7 @@ Piece::Piece()
     isCaptured = false; // this piece has not been captured
     row = -1; // uninitialized, 1-based row # location of this piece (1..8)
     col = -1;  // uninitialized, 1-based col # location of this piece (1..8 corresponds to a...h)
-    ptype = "bad"; // string name of type of piece like "rook" "king", "queen", etc.  Different than specified piece name below
+    ptype = "bad"; // string name of type of piece like "rook" "king", "queen", etc.  Different from specified piece name below
     isWhite = true; // true if a white piece, else black
     name = "unknown"; // r1b, p1b, p4b, kib, etc.
     board = nullptr; // a "back-pointer" to an instance of the ChessBoard by each piece
@@ -39,28 +39,26 @@ Piece::Piece(int _row, int _col, bool _isWhite, std::string _name )
     board = nullptr; // a "back-pointer" to an instance of the ChessBoard by each piece
 }
 
+// return a string that describes if this piece is White or Blank, based on the the isWhite bool member
 std::string Piece::colorName(){ return ( isWhite ? "White" : "Black" );}
-  // return a string that describes if this piece is White or Blank, based on the the isWhite bool member
-
-
+  
 // destructor - invoked from destructor of derived class
-
 Piece :: ~Piece(){ std::cout<<"Destructing piece base class" << std::endl; }
-
 
 // member functions
 
+// print out a debug description of each piece
 void Piece :: printMe()
-{ // print out a debug description of each piece
+{ 
   std::cout << "Color: " << colorName();
   std::cout << "Type: " << ptype << ", ";
   std::cout << "Location = (" << row << "," << colNames[col] << ") ";
   std::cout << "Is Captured = " << (isCaptured ? "True" : "False") << std::endl;
-} // end printMe()
+} 
 
-
-// true if the row, col location specified is "legal" or not (to avoid crashing when bad input is provided
-// not that this is 1-based and not zero based)
+/*
+Boolean method to see if the row, col location specified is "legal" or not (to avoid crashing when bad input is provided). Note that this is 1-based and not zero-based.
+*/
 bool Piece :: isOnBoard(int _row, int _col){
     
     if((_row<1 || _row > 8)  || (_col<1 || _col > 8) ){ 
@@ -68,13 +66,12 @@ bool Piece :: isOnBoard(int _row, int _col){
     }
     else
         return true; // YES it is a legal row col specification
-} // end isOnBoard()
+} 
 
 
-// this is a virtual method that SHOULD be overwritten in each derived class
-// that means we will never really call this method, unless some derived class has not yet implemented this method
-// in that case, this method would serve as a fall-back method to simply see if the row, col specification is legal or not
-// as such this is really just a debug method that should not be called once the game is fully implemented
+/*
+This is a virtual method that SHOULD be overwritten in each derived class. That means we will never really call this method, unless some derived class has not yet implemented this method. In that case, this method would serve as a fall-back method to simply see if the row, col specification is legal or not. As such, this is really just a debug method that should not be called once the game is fully implemented.
+    */
   bool Piece :: isLegalMoveTo(int _row, int _col) {
     
     std::cout << "Baseclass isLegalMoveTo() here.."   << std::endl;
@@ -86,10 +83,9 @@ bool Piece :: isOnBoard(int _row, int _col){
 }   // virtual method to be implemented in derived classes
 
 
-// this is the generic (base class) method that all pieces can use (it is NOT over-ridden by a derived class)
-// please note however that this method DOES call a method isLegalMoveTo() that IS over-ridden by a derived class
-// this technique allows a base-class method to call a derived method, which is the "key aspect" of this assignment
-// see **** below where this method is called
+/*
+This is the generic (base class) method that all pieces can use (it is NOT over-ridden by a derived class). Please note, however, that this method DOES call a method isLegalMoveTo() that IS over-ridden by a derived class. This technique allows a base-class method to call a derived method, which is the "key aspect" of this assignment. See **** below where this method is called.
+    */
 
 bool Piece::moveTo(int _row, int _col, bool silent )
 { // return true if the piece can move to the requested 1-based row, col location
@@ -133,7 +129,10 @@ bool Piece::moveTo(int _row, int _col, bool silent )
 
   // Is my King in Check from this move?
   if (board->isKingInCheck(this->isWhite, true)) 
-  { // (true -> DO SILENT) If this move puts or leaves this piece's same-color king in check , then we cannot make it.
+  { 
+      /*
+      (true -> DO SILENT) If this move puts or leaves this piece's same-color king in check , then we cannot make it.
+          */
     if (!silent) std::cout << board->redTextStart << "piece.moveTo() : " << colorName() << " " << ptype <<  " move from (" << origRow << ", " << colNames[origCol] <<  ") to (" << _row << ", " << colNames[_col] << ") is not valid because it would put (or leave) its own King in check. Abort Move." << board->coloredTextEnd << std::endl;
     row = origRow; // put this piece back to its original location
     col = origCol;
