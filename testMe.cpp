@@ -304,9 +304,4 @@ bool testMe() {
   outFile.close();
 
   return true;
-  
-<<<<<<< HEAD
-} // end testMe()
-=======
-} // end testMe()
->>>>>>> e392e0665ac15071173ec630aeebd343ff74dea2
+} 

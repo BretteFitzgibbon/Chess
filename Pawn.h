@@ -10,8 +10,5 @@ class Pawn : public Piece{ // Pawn derives (inherits from) from Piece
     ~Pawn(); // destructor
     bool isLegalMoveTo(int _row, int _col); // true if this Pawn can move to the specified location from its current location
     
-<<<<<<< HEAD
 };
-=======
-};
->>>>>>> e392e0665ac15071173ec630aeebd343ff74dea2
+

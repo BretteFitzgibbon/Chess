@@ -37,8 +37,5 @@ class ChessBoard
 
         Piece* lastPieceMovedSuccessfully = nullptr; // last piece that was successfully moved as a result of ChessBoard::takeTurn()
 
-<<<<<<< HEAD
-}; // end class chessBoard
-=======
-}; // end class chessBoard
->>>>>>> e392e0665ac15071173ec630aeebd343ff74dea2
+}; 
+

@@ -10,55 +10,55 @@
 
 
 ChessBoard :: ChessBoard()
-  { // default constructor
+  { // Default constructor
     std::cout << "board() default constructor here"  << std::endl;
 
-    int count = 0; // count of pieces we have created so far, used below
+    int count = 0; // count of pieces we have created so far
 
-    // Black Pieces
+    // black pieces
     pieces[count++] = new Rook(  8, a, black, "r1b"); // upper left corner  black
-    pieces[count++] = new Knight(8, b, black, "h1b"); // 
-    pieces[count++] = new Bishop(8, c, black, "b1b"); //
-    pieces[count++] = new Queen( 8, d, black, "qub"); // 
+    pieces[count++] = new Knight(8, b, black, "h1b");  
+    pieces[count++] = new Bishop(8, c, black, "b1b"); 
+    pieces[count++] = new Queen( 8, d, black, "qub");  
     pieces[count++] = new King(  8, e, black, "kib"); // KING == position 4
-    pieces[count++] = new Bishop(8, f, black, "b2b"); // 
-    pieces[count++] = new Knight(8, g, black, "h2b"); // 
+    pieces[count++] = new Bishop(8, f, black, "b2b"); 
+    pieces[count++] = new Knight(8, g, black, "h2b");  
     pieces[count++] = new Rook(  8, h, black, "r2b"); //  upper right corner black
     
     pieces[count++] = new Pawn(7, a, black, "p1b"); // upper leftmost pawn black
-    pieces[count++] = new Pawn(7, b, black, "p2b"); // 
-    pieces[count++] = new Pawn(7, c, black, "p3b"); // 
-    pieces[count++] = new Pawn(7, d, black, "p4b"); // 
-    pieces[count++] = new Pawn(7, e, black, "p5b"); //     
-    pieces[count++] = new Pawn(7, f, black, "p6b"); //
-    pieces[count++] = new Pawn(7, g, black, "p7b"); //
-    pieces[count++] = new Pawn(7, h, black, "p8b"); //     
+    pieces[count++] = new Pawn(7, b, black, "p2b");  
+    pieces[count++] = new Pawn(7, c, black, "p3b");  
+    pieces[count++] = new Pawn(7, d, black, "p4b"); 
+    pieces[count++] = new Pawn(7, e, black, "p5b");      
+    pieces[count++] = new Pawn(7, f, black, "p6b"); 
+    pieces[count++] = new Pawn(7, g, black, "p7b"); 
+    pieces[count++] = new Pawn(7, h, black, "p8b");      
 
     // white pieces
     pieces[count++] = new Rook(  1, a, white, "r1w"); // lower left corner  white
-    pieces[count++] = new Knight(1, b, white, "h1w"); // 
-    pieces[count++] = new Bishop(1, c, white, "b1w"); //
-    pieces[count++] = new Queen( 1, d, white, "quw"); // 
+    pieces[count++] = new Knight(1, b, white, "h1w");  
+    pieces[count++] = new Bishop(1, c, white, "b1w"); 
+    pieces[count++] = new Queen( 1, d, white, "quw");  
     pieces[count++] = new King(  1, e, white, "kiw"); //  KING == position 4 + 16 = 20
-    pieces[count++] = new Bishop(1, f, white, "b2w"); // 
-    pieces[count++] = new Knight(1, g, white, "h2w"); // 
+    pieces[count++] = new Bishop(1, f, white, "b2w");  
+    pieces[count++] = new Knight(1, g, white, "h2w");  
     pieces[count++] = new Rook(  1, h, white, "r2w"); // lower right corner white
     
     pieces[count++] = new Pawn(2, a, white, "p1w"); // lower leftmost pawn white
-    pieces[count++] = new Pawn(2, b, white, "p2w"); // 
-    pieces[count++] = new Pawn(2, c, white, "p3w"); // 
-    pieces[count++] = new Pawn(2, d, white, "p4w"); // 
-    pieces[count++] = new Pawn(2, e, white, "p5w"); //     
-    pieces[count++] = new Pawn(2, f, white, "p6w"); //
-    pieces[count++] = new Pawn(2, g, white, "p7w"); //
-    pieces[count++] = new Pawn(2, h, white, "p8w"); //
+    pieces[count++] = new Pawn(2, b, white, "p2w");  
+    pieces[count++] = new Pawn(2, c, white, "p3w"); 
+    pieces[count++] = new Pawn(2, d, white, "p4w"); 
+    pieces[count++] = new Pawn(2, e, white, "p5w");     
+    pieces[count++] = new Pawn(2, f, white, "p6w"); 
+    pieces[count++] = new Pawn(2, g, white, "p7w"); 
+    pieces[count++] = new Pawn(2, h, white, "p8w"); 
 
     // store the pointer to the board within each piece so it can reference the board
   
     for (int p = 0; p < 32; p++)
       pieces[p]->board = this; 
 
-} // end chessboard constructor
+} 
 
 
 // return true if the location row, col is occupied by a piece on the board
@@ -137,11 +137,11 @@ bool ChessBoard::isClear(int fromRow, int fromCol, int toRow, int toCol, bool si
         std::cout << "isClear(): Warning.  Cannot check arbitrary angles between (" << fromRow << "," << colNames[fromCol] << ") to (" << toRow << ", " << colNames[toCol] << "). Returning true (clear)." <<std::endl;
         return true;
     }
-} // end: ChessBoard :: isClear()
+} 
 
-
-// attempt to move the specified piece (by name) to the specified row, column loation
-// note that row and column are 1-based integer inputs that specified the 1-based row and column we are want to move to
+/*
+Attempt to move the specified piece (by name) to the specified row, column loation. Note that row and column are 1-based integer inputs that specified the 1-based row and column we are want to move to.
+  */
 bool ChessBoard :: takeTurn(std::string pieceName, int row, int col, bool silent )
 {
     if (!silent) 
@@ -180,7 +180,7 @@ bool ChessBoard :: takeTurn(std::string pieceName, int row, int col, bool silent
       }
     } // done looping through all pieces
   return false; // failed turn - something's amiss, as we should never have gotten this far 
-} // end: ChessBoard :: takeTurn()
+} 
 
 // get a pointer to the Piece instance (if any) at the specified row, column location
 Piece* ChessBoard::pieceAt(int _row, int _col)
@@ -193,20 +193,16 @@ Piece* ChessBoard::pieceAt(int _row, int _col)
             return pieces[p]; // return a pointer to the piece at this location
     } 
     return nullptr; // else return a null pointer
-} // end ChessBoard :: pieceAt()
+} 
 
 // print the chessboard
 void ChessBoard::printMe()
 {
     std::cout << std::endl;
-
-    
     // print column headings
-    
     std::cout << "   ";
     for(int c = a; c <= h; c++) {std::cout << " " << colNames[c] << "  ";}
     std::cout <<std::endl; // end the label of column names
-    
     
     for(int r = 8; r >= 1; r--) 
     {
@@ -217,11 +213,12 @@ void ChessBoard::printMe()
             for(int p=0; p<32; p++){ // check every piece
                 if (pieces[p]->isCaptured) // skip captured pieces
                     continue;
-                if (pieces[p]->row==r && pieces[p]->col==c) { // found the piece at this location
-                  // if ( pieces[p]->ptype == "King" && isKingInCheck( pieces[p]->isWhite, true )   ) // true => silent test for check
-                  //   std::cout << invertRedTextStart << pieces[p]->name << coloredTextEnd; // print in red
-                    
-                  // else 
+                if (pieces[p]->row==r && pieces[p]->col==c) { 
+                  /*
+                  Found the piece at this location.
+                  If ( pieces[p]->ptype == "King" && isKingInCheck( pieces[p]->isWhite, true )   ), true => silent test for check
+                  std::cout << invertRedTextStart << pieces[p]->name << coloredTextEnd; // print in red
+                  */
                     if ( pieces[p] == lastPieceMovedSuccessfully )
                     std::cout << (pieces[p]->isWhite? invertWhiteTextStart : invertMagentaTextStart ) << pieces[p]->name << coloredTextEnd << " "; // mark last move in green
                   else if ( !pieces[p]->isWhite )

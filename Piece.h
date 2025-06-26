@@ -17,11 +17,7 @@
 // This file describes a generic chess piece
 
 class Piece
-<<<<<<< HEAD
 { // parent (base) class from which all chess pieces are derived from (inherits from)
-=======
-{ // parent (base) class from which all chess pieces are derrived from (inherits from)
->>>>>>> e392e0665ac15071173ec630aeebd343ff74dea2
     private:
       const char colNames[9] = {'x', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h'}; // character names of our columns (x is never printed)
       
@@ -55,8 +51,5 @@ class Piece
       bool isOnBoard(int _row, int _col); // true if this piece is on the board
       std::string colorName(); // return a string that is the color name "white" or "black", for printing
       virtual bool isLegalMoveTo(int _row, int _col);   // virtual function to be implemented in derived classes.  Piece cannot answer this question about rook, for example, so the Rook.cpp class must implement this function, even though it may be called by a Piece.cpp method
-<<<<<<< HEAD
 };
-=======
-};
->>>>>>> e392e0665ac15071173ec630aeebd343ff74dea2
+

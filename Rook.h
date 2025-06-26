@@ -7,8 +7,5 @@ class Rook : public Piece{  // Rook derives from (inherits from) Piece
     Rook(int _row, int _col, bool _isWhite, std::string _name); // construct a Rook this location, of the specified color, with the specified screen name (r1b, r2b, r1w, r2w)
     ~Rook();  // destructor
     bool isLegalMoveTo(int _row, int _col); // true if this Rook can move to the specified location from its current location
-<<<<<<< HEAD
 };
-=======
-};
->>>>>>> e392e0665ac15071173ec630aeebd343ff74dea2
+
