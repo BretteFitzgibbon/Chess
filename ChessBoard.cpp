@@ -217,8 +217,9 @@ void ChessBoard::printMe()
                   /*
                   Found the piece at this location.
                   If ( pieces[p]->ptype == "King" && isKingInCheck( pieces[p]->isWhite, true )   ), true => silent test for check
-                  std::cout << invertRedTextStart << pieces[p]->name << coloredTextEnd; // print in red
                   */
+                  std::cout << invertRedTextStart << pieces[p]->name << coloredTextEnd; // print in red
+                  
                     if ( pieces[p] == lastPieceMovedSuccessfully )
                     std::cout << (pieces[p]->isWhite? invertWhiteTextStart : invertMagentaTextStart ) << pieces[p]->name << coloredTextEnd << " "; // mark last move in green
                   else if ( !pieces[p]->isWhite )
@@ -236,20 +237,22 @@ void ChessBoard::printMe()
         std::cout <<std::endl; // add a space
     } // done with the rows
     
-    std::cout << "   ";// more column labels at bottom
+    std::cout << "   "; // more column labels at bottom
     for(int c=a; c<=h; c++) {std::cout << " " << colNames[c] << "  ";} 
     std::cout << std::endl << std::endl << std::endl; // end the label of column names
 
-} // end ChessBoard :: printMe()
+} 
 
 
 // return true if the King of the color specified is currently in check
 bool ChessBoard::isKingInCheck(bool isWhite, bool silent) 
 {
   if (silent) 
+    /*
+    Handle the case where we must capture in a "what if" move before we call this function, to determine if the threat has been eliminated
+    */
     std::cout << "ChessBoard::isKingInCheck(): Testing to see if the " << (isWhite ? "White" : "Black" ) << " King is in check by testing every enemy piece on the board... \nthis will likely generate output from derived piece classes that are not silent." << std::endl;
-  // handle case where we must capture in a "what if" move before we call this function, to determine if the threat has been eliminated
-
+  
   Piece* thisKing = nullptr; // pointer to the King of the specified color
 
   if (!isWhite) 
@@ -269,7 +272,7 @@ bool ChessBoard::isKingInCheck(bool isWhite, bool silent)
       continue; // skip pieces which have been captured
     
     if (enemyPiece->isLegalMoveTo(thisKing->row, thisKing->col)) 
-    { // if legal for this enemy piece to move to this king, then the m
+    { 
        if (silent) 
          std::cout << "\nChessBoard::isKingInCheck(): Sorry, that move would put the King of the same color in check. Move aborted.  The turn still belongs to " << (whiteTurn== white ? "White" : "Black" ) << std::endl;
       if ( silent) 
@@ -278,22 +281,21 @@ bool ChessBoard::isKingInCheck(bool isWhite, bool silent)
     }
   } // end checking all enemy pieces
   return false;
-} // end ChessBoard :: isKingInCheck()
-
+} 
 
 // BONUS: +10 Indicate if either player has won via checkmate
 std::string ChessBoard :: isCheckmate()
 { // return a string that indicates the winning color, or None, if not checkMate for the current color
-    
+
     return "None"; // Return only "White", "Black", or "None"
-  
+
 } // end ChessBoard :: isCheckMate()
 
 // BONUS: +10 Indicate if the game status is stalemate
 bool ChessBoard :: isStalemate()
 { // return true if the game current player is not in check, but any possible move for the current player would be illegal
-    
+
     return false; // Return only true or false
-  
+
 } // end ChessBoard :: isCheckMate()
-   
+
