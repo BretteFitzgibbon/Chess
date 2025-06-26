@@ -14,10 +14,12 @@
 
 using namespace std;
 
-// r1w, h1w, b1w, Kw, Qw, b2w, h2w, r2w
-//  p1,  p2,  p3, p5, p6,  p7,  p8, p9
-// r1b, h1b, b1b, Kb, Qb, b2b, h2b, r2b
-
+/*
+r1w, h1w, b1w, Kw, Qw, b2w, h2w, r2w
+ p1w,  p2w,  p3w, p4w, p5w,  p6w,  p7w, p8w
+ p1b,  p2b,  p3b, p4b, p5b,  p6b,  p7b, p8b
+r1b, h1b, b1b, Kb, Qb, b2b, h2b, r2b
+*/
 
 int main() 
     {
@@ -38,10 +40,16 @@ int main()
   
 
   // (else) INTERACTIVE PLAY
-       
-    ChessBoard gameBoard; // create an instance of the chess board, complete with pieces, ready to play.
 
-    for(int i = 0; i < 32; i++) // print all the pieces on the board using the base-class printMe() method from Piece.h
+      /*
+      Create an instance of the chess board, complete with pieces, ready to play.
+      */
+    ChessBoard gameBoard; 
+
+      /*
+        Print all the pieces on the board using the base-class printMe() method from Piece.h
+        */
+      for(int i = 0; i < 32; i++) 
         gameBoard.pieces[i]->printMe();
 
     gameBoard.printMe(); // print the entire game board
