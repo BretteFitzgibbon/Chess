@@ -25,4 +25,8 @@ bool Knight::isLegalMoveTo(int _row, int _col) // true if this knight can move t
       } // done checking piece at "to" location
     }
       return true;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> e392e0665ac15071173ec630aeebd343ff74dea2

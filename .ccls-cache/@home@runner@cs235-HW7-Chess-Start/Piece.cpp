@@ -2,7 +2,6 @@
 #include <string>
 #include "Piece.h"
 
-// DONE FOR YOU: this file implementation is completely finished, but should be studied.
 
 Piece::Piece()
 { // constructor 1: (default)

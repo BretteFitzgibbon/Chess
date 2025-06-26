@@ -152,4 +152,8 @@ bool Piece::moveTo(int _row, int _col, bool silent )
   neverMoved = false; // record that this piece has been moved from its original location
   return true; // return true to indicate a successful move
   
+<<<<<<< HEAD
 } // end: Piece::moveTo()
+=======
+} // end: Piece::moveTo()
+>>>>>>> e392e0665ac15071173ec630aeebd343ff74dea2

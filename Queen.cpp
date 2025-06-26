@@ -26,4 +26,8 @@ bool Queen::isLegalMoveTo(int _row, int _col) // true if this queen can move to 
       } // done checking piece at "to" location
     }
       return true;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> e392e0665ac15071173ec630aeebd343ff74dea2

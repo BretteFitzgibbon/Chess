@@ -9,4 +9,8 @@ class Bishop : public Piece
     Bishop(int _row, int _col, bool _isWhite, std::string _name); // construct a Bishop this location, of the specified colors, with the specified screen name (b1b, b2b, b1w, b2w)
     ~Bishop();   // destructor
     bool isLegalMoveTo(int _row, int _col); // true if this Bishop can move to the specified location from its current location
+<<<<<<< HEAD
 };
+=======
+};
+>>>>>>> e392e0665ac15071173ec630aeebd343ff74dea2

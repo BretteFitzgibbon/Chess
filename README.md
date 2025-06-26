@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Overview (Spring 23-B)
 Write a PvP (player vs player) turn-based chess game, based on a simple printed character-representation of the standard chess board and named pieces .  (You will not be adding any "AI" for this assignment - but that would be an excellent personal project to pursue after this course!)  Search for "TODO" in this document for a short-cut to see implementation steps you must perform).
 
@@ -264,3 +265,8 @@ The check string is comprised (in order) of the string versions of each piece's 
 All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
 
 
+=======
+A player-versus-player object-oriented game of chess. Uses inheritance from the Piece class, in addition to distinct legal move logic, to operate each type of piece. 
+
+Note: This was a homework assignment and the test suite was written by the professor.
+>>>>>>> e392e0665ac15071173ec630aeebd343ff74dea2
