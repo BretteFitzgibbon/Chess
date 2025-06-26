@@ -2,11 +2,16 @@
 #include <string>
 #include "Pawn.h"
 
+// constructor
 Pawn::Pawn(int _row, int _col, bool _isWhite, std::string _name): Piece (_row, _col, _isWhite, _name) {ptype = "Pawn";}
-    
-Pawn::~Pawn() {std::cout << "Destroying pawn" << std::endl;}   // destructor
 
-bool Pawn::isLegalMoveTo(int _row, int _col) // true if this pawn can move to the specified location from its current location
+// destructor
+Pawn::~Pawn() {std::cout << "Destroying pawn" << std::endl;}  
+
+/* 
+  Boolean method to see if the Pawn can move to the specified location from its current location
+*/
+bool Pawn::isLegalMoveTo(int _row, int _col) 
 { // _row, _col is the "to" location of our desired move
     if(isWhite == true)
     {
@@ -16,8 +21,8 @@ bool Pawn::isLegalMoveTo(int _row, int _col) // true if this pawn can move to th
       {
         if (_row - row > 2) // can move two spaces on first move
           return false;
-        //else
-          //return true;
+        else
+          return true;
       }
       else
       {
@@ -68,16 +73,16 @@ bool Pawn::isLegalMoveTo(int _row, int _col) // true if this pawn can move to th
       {
         if (row - _row > 2) // can move two spaces on first move
           return false;
-        //else
-          //return true;
+        else
+          return true;
       }
       else
       {
         if (row - _row > 1) // cannot move more than one row down
         return false;
       }
-      //if (row - _row > 1) 
-        //return false;
+      if (row - _row > 1) 
+        return false;
       if (col != 1 && col != 8) // these two columns have only one diagonal space on the board
       {
         Piece* capturePiece1 = board->pieceAt(row - 1, col - 1); // left diagonal
@@ -118,14 +123,16 @@ bool Pawn::isLegalMoveTo(int _row, int _col) // true if this pawn can move to th
       return false;
     if (!board->isClear(row, col, _row, _col)) // are there pieces blocking this potential move?          
       return false;
-      // Check if the final location is occupied by a same-colored piece           // if yes, then we are blocked by our own piece           // if no, then we have a capture – which will be handled by the Piece :: moveTo ( ) method
+  /*    
+  Check if the final location is occupied by a same-colored piece. If yes, then we are blocked by our own piece. If no, then we have a capture – which will be handled by the Piece :: moveTo ( ) method.
+  */
     Piece* endPiece = board->pieceAt(_row, _col);  // see if there is a piece at the "to" location
     if (endPiece != nullptr) 
     { // check if the piece at the "to" location is of the same color
-        //if (endPiece->isWhite == isWhite) 
-        //{
+        if (endPiece->isWhite == isWhite) 
+        {
           std::cout << "pawn.isLegalMoveTo(): This move is blocked!"<<std::endl;     
-         return false; // cannot move to or capture our own piece!        }
+         return false; }// cannot move to or capture our own piece!  
        // done checking piece at "to" location
     }
   return true;
