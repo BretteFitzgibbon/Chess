@@ -13,113 +13,71 @@ Pawn::~Pawn() {std::cout << "Destroying pawn" << std::endl;}
 */
 bool Pawn::isLegalMoveTo(int _row, int _col) 
 { // _row, _col is the "to" location of our desired move
+
+    // Check if trying to move diagonally for capture
+    bool isDiagonalMove = (_col != col);
+
     if(isWhite == true) {
-      if(_row < row) // cannot move backwards
-        return false;
-      if (row == 2) {
-        if (_row - row > 2) // can move two spaces on first move
-          return false;
-        else
-          return true;
-      }
-      else {
-        if (_row - row > 1) // cannot move more than one row up
-        return false;
-      }
-      if (col != 1 && col != 8) // these two columns have only one diagonal space on the board
-      {
-        Piece* capturePiece1 = board->pieceAt(row + 1, col - 1); // left diagonal
-        Piece* capturePiece2 = board->pieceAt(row + 1, col + 1); // right diagonal
-        if (capturePiece1 != nullptr && capturePiece1->isWhite != isWhite) {
-          if(capturePiece1->row == _row && capturePiece1->col == _col)
-            return true;
+        if(_row <= row) // cannot move backwards or stay in same row
+            return false;
+
+        // Handle diagonal moves (captures only)
+        if (isDiagonalMove) {
+            if (abs(_col - col) != 1 || _row - row != 1) // must be exactly one diagonal
+                return false;
+
+            Piece* capturePiece = board->pieceAt(_row, _col);
+            if (capturePiece != nullptr && capturePiece->isWhite != isWhite) {
+                return true; // valid capture
+            }
+            return false; // no piece to capture diagonally
         }
-        else if (capturePiece2 != nullptr && capturePiece2->isWhite != isWhite) {
-          if(capturePiece2->row == _row && capturePiece2->col == _col)
-            return true;
+
+        // Handle forward moves (non-diagonal)
+        if (row == 2) {
+            if (_row - row > 2) // can move two spaces on first move
+                return false;
+        } else {
+            if (_row - row > 1) // cannot move more than one row up
+                return false;
         }
-      }
-      else if (col == 1) {
-        Piece* capturePiece = board->pieceAt(row + 1, col + 1); // right diagonal
-        if (capturePiece != nullptr && capturePiece->isWhite != isWhite) {
-          if(capturePiece->row == _row && capturePiece->col == _col)
-            return true;
-        }
-      }
-      else if (col == 8) {
-        Piece* capturePiece = board->pieceAt(row + 1, col - 1); // left diagonal
-        if (capturePiece != nullptr && capturePiece->isWhite != isWhite) {
-          if(capturePiece->row == _row && capturePiece->col == _col)
-            return true;
-      }
-      }
-      else 
-        return false; // cannot move diagonally unless it is to capture
     }
-    else // row arithmetic is reversed for black pieces
+    else // black pieces
     {
-      if (_row > row) // cannot move backwards
-        return false;
-        if (row == 7)
-          {
-            if (row - _row > 2) // can move two spaces on first move
-              return false;
-            else
-              return true;
-          }
-      else {
-        if (row - _row > 1) // cannot move more than one row down
-          return false;
-      }
-      if (row - _row > 1) 
-        return false;
-      if (col != 1 && col != 8) // these two columns have only one diagonal space on the board
-      {
-        Piece* capturePiece1 = board->pieceAt(row - 1, col - 1); // left diagonal
-        Piece* capturePiece2 = board->pieceAt(row - 1, col + 1); // right diagonal
-        if (capturePiece1 != nullptr && capturePiece1->isWhite != isWhite) {
-          if(capturePiece1->row == _row && capturePiece1->col == _col)
-            return true;
+        if (_row >= row) // cannot move backwards or stay in same row
+            return false;
+
+        // Handle diagonal moves (captures only)
+        if (isDiagonalMove) {
+            if (abs(_col - col) != 1 || row - _row != 1) // must be exactly one diagonal
+                return false;
+
+            Piece* capturePiece = board->pieceAt(_row, _col);
+            if (capturePiece != nullptr && capturePiece->isWhite != isWhite) {
+                return true; // valid capture
+            }
+            return false; // no piece to capture diagonally
         }
-      else if (capturePiece2 != nullptr && capturePiece2->isWhite != isWhite) {
-        if(capturePiece2->row == _row && capturePiece2->col == _col)
-          return true;
-      }
-     }
-    else if (col == 1) {
-      Piece* capturePiece = board->pieceAt(row - 1, col + 1); // right diagonal
-      if (capturePiece != nullptr && capturePiece->isWhite != isWhite)       {
-        if(capturePiece->row == _row && capturePiece->col == _col)
-          return true;
-      }
-      }
-      else if (col == 8) {
-      Piece* capturePiece = board->pieceAt(row - 1, col - 1); // left diagonal
-      if (capturePiece != nullptr && capturePiece->isWhite != isWhite)
-      {
-        if(capturePiece->row == _row && capturePiece->col == _col)
-          return true;
-      }
-      }
-      else
-        return false; // cannot move diagonally unless it is to capture
+
+        // Handle forward moves (non-diagonal)
+        if (row == 7) {
+            if (row - _row > 2) // can move two spaces on first move
+                return false;
+        } else {
+            if (row - _row > 1) // cannot move more than one row down
+                return false;
+        }
     }
-    if (_col != col) // cannot move to a different column
-      return false;
-    if (!board->isClear(row, col, _row, _col)) // are there pieces blocking this potential move?          
-      return false;
-  /*    
-  Check if the final location is occupied by a same-colored piece. If yes, then we are blocked by our own piece. If no, then we have a capture – which will be handled by the Piece :: moveTo ( ) method.
-  */
+
+    // For non-diagonal moves, check if path is clear and destination is empty
+    if (!board->isClear(row, col, _row, _col)) // are there pieces blocking this potential move?          
+        return false;
+
     Piece* endPiece = board->pieceAt(_row, _col);  // see if there is a piece at the "to" location
-    if (endPiece != nullptr) 
-    { // check if the piece at the "to" location is of the same color
-        if (endPiece->isWhite == isWhite) {
-          std::cout << "pawn.isLegalMoveTo(): This move is blocked!"<<std::endl;     
-         return false; 
-        }// cannot move to or capture our own piece!  
-       // done checking piece at "to" location
-      return true;
+    if (endPiece != nullptr) {
+        // Forward moves cannot capture
+        return false;
     }
-  return true;
-  }
+
+    return true;
+}
