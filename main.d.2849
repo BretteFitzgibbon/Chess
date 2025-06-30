@@ -1,0 +1,2 @@
+main.o: main.cpp Piece.h ChessBoard.h Pawn.h King.h Queen.h Bishop.h \
+  Knight.h Rook.h testMe.h

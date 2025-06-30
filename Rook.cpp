@@ -30,7 +30,8 @@ bool Rook::isLegalMoveTo(int _row, int _col)
           std::cout << "rook.isLegalMoveTo(): This move is blocked at the to location by a same-colored piece!" << std::endl;            
          return false;} // cannot move to or capture our own piece!   
       } // done checking piece at "to" location
+  return true;
     }
-      return true;
-}
+      
+
 

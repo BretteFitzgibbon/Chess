@@ -27,7 +27,10 @@ bool Bishop::isLegalMoveTo(int _row, int _col)
         {
           std::cout << "bishop.isLegalMoveTo(): This move is blocked at the to location by a same-colored piece!" << std::endl;            
          return false; 
-        } // cannot move to or capture our own piece! 
+        } // cannot move to or capture our own piece!
+      std::cout << "bishop.isLegalMoveTo(): This move is ok" << std::endl; // JDY DEBUG
       return true;
       } // done checking piece at "to" location     
+
+  return true; // JDY BUG: we must always return a value
 }

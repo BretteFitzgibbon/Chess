@@ -1,0 +1,2 @@
+ChessBoard.o: ChessBoard.cpp ChessBoard.h Pawn.h Piece.h Rook.h King.h \
+  Queen.h Bishop.h Knight.h

@@ -32,9 +32,11 @@ bool Queen::isLegalMoveTo(int _row, int _col)
         if (endPiece->isWhite == isWhite) 
         {
           std::cout << "queen.isLegalMoveTo(): This move is blocked at the to location by a same-colored piece!" << std::endl;            
-         return false;} // cannot move to or capture our own piece!   
-      } // done checking piece at "to" location
-    }
+         return false;
+        } // cannot move to or capture our own piece!  
       return true;
-}
+      } // done checking piece at "to" location
+  return true;
+    }
+      
 

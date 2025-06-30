@@ -13,19 +13,16 @@ Pawn::~Pawn() {std::cout << "Destroying pawn" << std::endl;}
 */
 bool Pawn::isLegalMoveTo(int _row, int _col) 
 { // _row, _col is the "to" location of our desired move
-    if(isWhite == true)
-    {
+    if(isWhite == true) {
       if(_row < row) // cannot move backwards
         return false;
-      if (row == 2)
-      {
+      if (row == 2) {
         if (_row - row > 2) // can move two spaces on first move
           return false;
         else
           return true;
       }
-      else
-      {
+      else {
         if (_row - row > 1) // cannot move more than one row up
         return false;
       }
@@ -33,31 +30,25 @@ bool Pawn::isLegalMoveTo(int _row, int _col)
       {
         Piece* capturePiece1 = board->pieceAt(row + 1, col - 1); // left diagonal
         Piece* capturePiece2 = board->pieceAt(row + 1, col + 1); // right diagonal
-        if (capturePiece1 != nullptr && capturePiece1->isWhite != isWhite)
-        {
+        if (capturePiece1 != nullptr && capturePiece1->isWhite != isWhite) {
           if(capturePiece1->row == _row && capturePiece1->col == _col)
             return true;
         }
-        else if (capturePiece2 != nullptr && capturePiece2->isWhite != isWhite)
-        {
+        else if (capturePiece2 != nullptr && capturePiece2->isWhite != isWhite) {
           if(capturePiece2->row == _row && capturePiece2->col == _col)
             return true;
         }
       }
-      else if (col == 1)
-      {
+      else if (col == 1) {
         Piece* capturePiece = board->pieceAt(row + 1, col + 1); // right diagonal
-        if (capturePiece != nullptr && capturePiece->isWhite != isWhite)
-        {
+        if (capturePiece != nullptr && capturePiece->isWhite != isWhite) {
           if(capturePiece->row == _row && capturePiece->col == _col)
             return true;
         }
       }
-      else if (col == 8)
-      {
+      else if (col == 8) {
         Piece* capturePiece = board->pieceAt(row + 1, col - 1); // left diagonal
-        if (capturePiece != nullptr && capturePiece->isWhite != isWhite)
-        {
+        if (capturePiece != nullptr && capturePiece->isWhite != isWhite) {
           if(capturePiece->row == _row && capturePiece->col == _col)
             return true;
       }
@@ -69,17 +60,16 @@ bool Pawn::isLegalMoveTo(int _row, int _col)
     {
       if (_row > row) // cannot move backwards
         return false;
-      if (row == 7)
-      {
-        if (row - _row > 2) // can move two spaces on first move
-          return false;
-        else
-          return true;
-      }
-      else
-      {
+        if (row == 7)
+          {
+            if (row - _row > 2) // can move two spaces on first move
+              return false;
+            else
+              return true;
+          }
+      else {
         if (row - _row > 1) // cannot move more than one row down
-        return false;
+          return false;
       }
       if (row - _row > 1) 
         return false;
@@ -87,28 +77,23 @@ bool Pawn::isLegalMoveTo(int _row, int _col)
       {
         Piece* capturePiece1 = board->pieceAt(row - 1, col - 1); // left diagonal
         Piece* capturePiece2 = board->pieceAt(row - 1, col + 1); // right diagonal
-        if (capturePiece1 != nullptr && capturePiece1->isWhite != isWhite)
-        {
+        if (capturePiece1 != nullptr && capturePiece1->isWhite != isWhite) {
           if(capturePiece1->row == _row && capturePiece1->col == _col)
             return true;
         }
-      else if (capturePiece2 != nullptr && capturePiece2->isWhite != isWhite)
-      {
+      else if (capturePiece2 != nullptr && capturePiece2->isWhite != isWhite) {
         if(capturePiece2->row == _row && capturePiece2->col == _col)
           return true;
       }
      }
-    else if (col == 1)
-      {
+    else if (col == 1) {
       Piece* capturePiece = board->pieceAt(row - 1, col + 1); // right diagonal
-      if (capturePiece != nullptr && capturePiece->isWhite != isWhite)
-      {
+      if (capturePiece != nullptr && capturePiece->isWhite != isWhite)       {
         if(capturePiece->row == _row && capturePiece->col == _col)
           return true;
       }
       }
-      else if (col == 8)
-      {
+      else if (col == 8) {
       Piece* capturePiece = board->pieceAt(row - 1, col - 1); // left diagonal
       if (capturePiece != nullptr && capturePiece->isWhite != isWhite)
       {
@@ -129,11 +114,12 @@ bool Pawn::isLegalMoveTo(int _row, int _col)
     Piece* endPiece = board->pieceAt(_row, _col);  // see if there is a piece at the "to" location
     if (endPiece != nullptr) 
     { // check if the piece at the "to" location is of the same color
-        if (endPiece->isWhite == isWhite) 
-        {
+        if (endPiece->isWhite == isWhite) {
           std::cout << "pawn.isLegalMoveTo(): This move is blocked!"<<std::endl;     
-         return false; }// cannot move to or capture our own piece!  
+         return false; 
+        }// cannot move to or capture our own piece!  
        // done checking piece at "to" location
+      return true;
     }
   return true;
   }

@@ -218,9 +218,8 @@ void ChessBoard::printMe()
                   Found the piece at this location.
                   If ( pieces[p]->ptype == "King" && isKingInCheck( pieces[p]->isWhite, true )   ), true => silent test for check
                   */
-                  std::cout << invertRedTextStart << pieces[p]->name << coloredTextEnd; // print in red
-                  
-                    if ( pieces[p] == lastPieceMovedSuccessfully )
+                
+                  if ( pieces[p] == lastPieceMovedSuccessfully )
                     std::cout << (pieces[p]->isWhite? invertWhiteTextStart : invertMagentaTextStart ) << pieces[p]->name << coloredTextEnd << " "; // mark last move in green
                   else if ( !pieces[p]->isWhite )
                     std::cout << magentaTextStart << pieces[p]->name << coloredTextEnd << " "; // mark last move in green
